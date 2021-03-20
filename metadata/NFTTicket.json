@@ -12,7 +12,7 @@
         },
         "image": {
             "type": "string",
-            "description": "https://github.com/StevenDay83/SDay_NFTTesting/raw/main/resources/HeavyScout.png"
+            "description": "https://raw.githubusercontent.com/StevenDay83/SDay_NFTTesting/main/resources/HeavyScout.png"
         }
     }
 }
