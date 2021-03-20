@@ -1,0 +1,18 @@
+{
+    "title": "Test Ticket",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "A boat"
+        },
+        "description": {
+            "type": "string",
+            "description": "This is a picture of a boat"
+        },
+        "image": {
+            "type": "string",
+            "description": "https://github.com/StevenDay83/SDay_NFTTesting/raw/main/resources/HeavyScout.png"
+        }
+    }
+}
